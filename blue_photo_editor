@@ -1,5 +1,5 @@
 {
-"STATUS":false,
+"STATUS":true,
    "MSG":"",
    "onback_adshow":"",
    "APP_SETTINGS":{
@@ -50,7 +50,7 @@
        
       
       "QurekaLite":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":"https://336.set.qureka.com/"
       }
    }
