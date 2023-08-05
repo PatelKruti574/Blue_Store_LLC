@@ -18,41 +18,41 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-         "Banner1":" ",
-         "Interstitial1":"IMG_16_9_APP_INSTALL",
-         "Interstitial2":"IMG_16_9_APP_INSTALL#",
-         "Interstitial3":"IMG_16_9_APP_INSTALL#",
-         "Interstitial4":"IMG_16_9_APP_INSTALL#",
-         "Interstitial5":"IMG_16_9_APP_INSTALL#",
-         "Interstitial6":"IMG_16_9_APP_INSTALL#",
-         "Interstitial7":"IMG_16_9_APP_INSTALL#",
-         "Interstitial8":"IMG_16_9_APP_INSTALL#",
-          "Interstitial9":"IMG_16_9_APP_INSTALL#",
-           "Interstitial10":"IMG_16_9_APP_INSTALL#",
-            "Interstitial11":"IMG_16_9_APP_INSTALL#",
+         "ad_showAdStatus":"1",
+         "Banner1":"1022107055608994_1022107965608903",
+         "Interstitial1":"1022107055608994_1022108135608886",
+         "Interstitial2":"1022107055608994_1022108185608881",
+         "Interstitial3":"1022107055608994_1022108298942203",
+         "Interstitial4":"1022107055608994_1022108372275529",
+         "Interstitial5":"1022107055608994_1022108465608853",
+         "Interstitial6":"1022107055608994_1022108135608886",
+         "Interstitial7":"1022107055608994_1022108185608881",
+         "Interstitial8":"1022107055608994_1022108298942203",
+          "Interstitial9":"1022107055608994_1022108372275529",
+           "Interstitial10":"1022107055608994_1022108465608853",
+            "Interstitial11":"1022107055608994_1022108518942181",
 
-          "Interstitial_exit":"IMG_16_9_APP_INSTALL#",
-         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#",
-         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#",  
-         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#",
-         "Interstitial_exit4":"IMG_16_9_APP_INSTALL",
-         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#",
-          "Interstitial_exit6":"IMG_16_9_APP_INSTALL#",
-           "Interstitial_exit7":"IMG_16_9_APP_INSTALL#",
-            "Interstitial_exit8":"IMG_16_9_APP_INSTALL#",
+          "Interstitial_exit":"1022107055608994_1022108592275507",
+         "Interstitial_exit1":"1022107055608994_1022108665608833",
+         "Interstitial_exit2":"1022107055608994_1022108755608824",  
+         "Interstitial_exit3":"1022107055608994_1022108825608817",
+         "Interstitial_exit4":"1022107055608994_1022108592275507,
+         "Interstitial_exit5":"1022107055608994_1022108665608833",
+          "Interstitial_exit6":"1022107055608994_1022108755608824",
+           "Interstitial_exit7":"1022107055608994_1022108825608817",
+            "Interstitial_exit8":"1022107055608994_1022108892275477",
 
 
 
-                      "Native1":"IMG_16_9_APP_INSTALL#",
-              "NativeBanner1":"IMG_16_9_APP_INSTALL#" 
+                      "Native1":"1022107055608994_1022108945608805",
+              "NativeBanner1":"1022107055608994_1022109022275464" 
          
      
       },
        
       
       "QurekaLite":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "AppID":"https://336.set.qureka.com/"
       }
    }
